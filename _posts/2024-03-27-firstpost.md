@@ -2,6 +2,6 @@
 title: "firstpost_test"
 date: 2024-03-27
 ---
-testing text
-![Alt Text](../images/tokyo.jpg)
+hello
+![tokoy tower](../images/tokyo.jpg)
 
